@@ -25,4 +25,4 @@ Based on my analysis, the system was designed to fulfill the following client ne
 * **Strategic Development Roadmap:** A time-bound execution plan from 2025 to 2026.
 
 ## Project Timeline
-!alt text](?raw=true)
+![alt text](https://github.com/dhaizfullah/Aglonema-Retail-System/blob/main/Gannt%20Chart.jpg?raw=true)
